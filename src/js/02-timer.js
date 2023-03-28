@@ -36,7 +36,7 @@ const options = {
   onClose(selectedDates) {
     //tutaj wpiszę
     //
-    //
+    //a teraz?
     //
     //
     //

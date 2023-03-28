@@ -12,6 +12,11 @@
 const startBtn = document.querySelector('button[data-start]');
 const stopBtn = document.querySelector('button[data-stop]');
 
+//for better view I changed body height
+const body = document.querySelector('body');
+body.style.height = "400px";
+
+
 // color changing function
 function getRandomHexColor() {
   return `#${Math.floor(Math.random() * 16777215).toString(16)}`;

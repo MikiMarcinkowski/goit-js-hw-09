@@ -38,7 +38,7 @@ const options = {
     //
     //a teraz?
     //
-    //
+    //fthfthfth
     //
     console.log(selectedDates[0]);
   },

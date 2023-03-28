@@ -35,7 +35,7 @@ const options = {
   defaultDate: new Date(),
   minuteIncrement: 1,
   onClose(selectedDates) {
-    //
+    //tutaj wpiszę
     //
     //
     //
